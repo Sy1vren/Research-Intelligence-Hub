@@ -88,6 +88,18 @@ def analyze(
         sos = signal.butter(
             filter_order, [lowcut, highcut], btype="bandpass", fs=fs, output="sos"
         )
+        # Match SciPy's default SOS forward-backward padding requirement so
+        # short records fail with an actionable message rather than a low-level error.
+        padlen = 3 * (
+            2 * len(sos) + 1
+            - min(int(np.sum(sos[:, 2] == 0)), int(np.sum(sos[:, 5] == 0)))
+        )
+        if detrended.size <= padlen:
+            raise ValueError(
+                f"Signal has {detrended.size} samples, but this filter requires "
+                f"more than {padlen} samples. Use a longer record or reconsider "
+                "the filter order and analysis method."
+            )
         processed = signal.sosfiltfilt(sos, detrended)
         filter_applied = True
 
