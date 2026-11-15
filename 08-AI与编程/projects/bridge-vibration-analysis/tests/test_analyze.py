@@ -26,6 +26,16 @@ class TestVibrationAnalysis(unittest.TestCase):
             with self.assertRaises(ValueError):
                 load_signal(path, "time_s", "acceleration_m_s2")
 
+    def test_bandpass_filter_rejects_record_that_is_too_short(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            time = np.arange(16) / 100.0
+            values = np.sin(2*np.pi*5*time)
+            source = root / "short.csv"
+            pd.DataFrame({"time_s": time, "acceleration_m_s2": values}).to_csv(source, index=False)
+            with self.assertRaisesRegex(ValueError, "requires more than"):
+                analyze(source, root / "results", lowcut=1.0, highcut=20.0)
+
     def test_pipeline_detects_synthetic_dominant_frequency(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
