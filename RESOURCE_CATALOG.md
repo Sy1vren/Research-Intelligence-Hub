@@ -14,8 +14,8 @@
 
 | 模块 | 资源卡数量 | VERIFIED | ADAPTED | 说明 |
 |---|---:|---:|---:|---|
-| 01 竞赛与答辩 | 0 | 0 | 0 | 待建设 |
-| 02 项目申报 | 0 | 0 | 0 | 待建设 |
+| 01 竞赛与答辩 | 2 | 0 | 0 | 首批收录 2 项，均为 REVIEWED |
+| 02 项目申报 | 1 | 0 | 0 | 首批收录 1 项，REVIEWED |
 | 03 技术文档 | 0 | 0 | 0 | 待建设 |
 | 04 知识产权 | 0 | 0 | 0 | 待建设 |
 | 05 学术论文 | 0 | 0 | 0 | 待建设 |
@@ -27,11 +27,11 @@
 
 ## 正式资源卡索引
 
-首批已建立 5 张资源卡，均标记为 REVIEWED：已检查原始发布页面和主要内容，但部分许可细节、完整材料及实际应用效果仍待逐项复核。
+目前已建立 8 张资源卡，均标记为 REVIEWED：已检查原始发布页面和主要内容，但部分许可细节、完整材料及实际应用效果仍待逐项复核。
 
 | 资源名称 | 模块 | 类型 | 状态 | 资源卡路径 |
 |---|---|---|---|---|
-| OSF Registrations and Preregistrations Guide | 06 科学研究 | 研究流程指南/模板 | REVIEWED | 06-科学研究/resources/osf-preregistration-guide.md |
+| “挑战杯”全国大学生课外学术科技作品竞赛章程 | 01 竞赛与答辩 | 竞赛章程/参赛资格规则 | REVIEWED | 01-竞赛与答辩/resources/challenge-cup-charter.md |\n| 中国国际大学生创新大赛（2025）评审规则发布页 | 01 竞赛与答辩 | 创新创业竞赛评审规则 | REVIEWED | 01-竞赛与答辩/resources/china-international-college-students-innovation-contest-2025.md |\n| 2026 年国家自然科学基金申请书改版说明 | 02 项目申报 | 科研项目申请书撰写政策说明 | REVIEWED | 02-项目申报/resources/nsfc-2026-proposal-writing-revision.md |\n| OSF Registrations and Preregistrations Guide | 06 科学研究 | 研究流程指南/模板 | REVIEWED | 06-科学研究/resources/osf-preregistration-guide.md |
 | MIT OCW Statistical Methods | 06 科学研究 | 开放课程/统计学 | REVIEWED | 06-科学研究/resources/mit-ocw-statistical-methods.md |
 | FHWA Bridge Inspection Resources | 07 专业工程 | 桥梁检查手册索引 | REVIEWED | 07-专业工程/resources/fhwa-bridge-inspection-resources.md |
 | FHWA Pavement Design Resources | 07 专业工程 | 路面设计技术资料索引 | REVIEWED | 07-专业工程/resources/fhwa-pavement-design-resources.md |
