@@ -168,3 +168,9 @@ INDEX.md
 Research Intelligence Hub
 
 Build Knowledge. Develop Methods. Create Intelligence.
+
+10. 长期建设路线图
+
+本知识库的阶段目标、交付物、验收标准和近期优先行动统一记录在 ROADMAP.md。建设时以真实任务能力、可复现成果和质量核验为标准，不以资源数量作为唯一目标。
+
+ROADMAP.md
