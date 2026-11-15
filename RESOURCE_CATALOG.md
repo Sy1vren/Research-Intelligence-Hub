@@ -19,19 +19,23 @@
 | 03 技术文档 | 0 | 0 | 0 | 待建设 |
 | 04 知识产权 | 0 | 0 | 0 | 待建设 |
 | 05 学术论文 | 0 | 0 | 0 | 待建设 |
-| 06 科学研究 | 0 | 0 | 0 | 优先建设 |
-| 07 专业工程 | 0 | 0 | 0 | 优先建设 |
+| 06 科学研究 | 2 | 0 | 0 | 首批收录 2 项，均为 REVIEWED |
+| 07 专业工程 | 3 | 0 | 0 | 首批收录 3 项，均为 REVIEWED |
 | 08 AI与编程 | 0 | 0 | 0 | 待建设 |
 | 09 文献与数据 | 0 | 0 | 0 | 待建设 |
 | 10 项目管理 | 0 | 0 | 0 | 待建设 |
 
 ## 正式资源卡索引
 
-目前尚无完成核验并正式入库的资源卡。候选资源应先进入 INBOX；完成核验后再加入对应模块并登记于此。
+首批已建立 5 张资源卡，均标记为 REVIEWED：已检查原始发布页面和主要内容，但部分许可细节、完整材料及实际应用效果仍待逐项复核。
 
 | 资源名称 | 模块 | 类型 | 状态 | 资源卡路径 |
 |---|---|---|---|---|
-| 暂无 | — | — | — | — |
+| OSF Registrations and Preregistrations Guide | 06 科学研究 | 研究流程指南/模板 | REVIEWED | 06-科学研究/resources/osf-preregistration-guide.md |
+| MIT OCW Statistical Methods | 06 科学研究 | 开放课程/统计学 | REVIEWED | 06-科学研究/resources/mit-ocw-statistical-methods.md |
+| FHWA Bridge Inspection Resources | 07 专业工程 | 桥梁检查手册索引 | REVIEWED | 07-专业工程/resources/fhwa-bridge-inspection-resources.md |
+| FHWA Pavement Design Resources | 07 专业工程 | 路面设计技术资料索引 | REVIEWED | 07-专业工程/resources/fhwa-pavement-design-resources.md |
+| OpenSees Official Documentation | 07 专业工程 | 结构与岩土数值模拟文档 | REVIEWED | 07-专业工程/resources/opensees-official-documentation.md |
 
 ## 维护规则
 
