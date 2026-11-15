@@ -21,14 +21,14 @@
 | 05 学术论文 | 0 | 0 | 0 | 待建设 |
 | 06 科学研究 | 2 | 0 | 0 | 2 项，均为 REVIEWED |
 | 07 专业工程 | 6 | 0 | 0 | 6 项，均为 REVIEWED |
-| 08 AI与编程 | 0 | 0 | 0 | 待建设 |
+| 08 AI与编程 | 5 | 0 | 0 | 5 项，均为 REVIEWED |
 | 09 文献与数据 | 0 | 0 | 0 | 待建设 |
 | 10 项目管理 | 0 | 0 | 0 | 待建设 |
-| **合计** | **11** | **0** | **0** | **11 项均为 REVIEWED** |
+| **合计** | **16** | **0** | **0** | **16 项均为 REVIEWED** |
 
 ## 正式资源卡索引
 
-目前已建立 11 张资源卡，均标记为 REVIEWED：已检查原始发布页面和主要内容，但部分许可细节、完整材料及实际应用效果仍待逐项复核。
+目前已建立 16 张资源卡，均标记为 REVIEWED：已检查原始发布页面和主要内容，但部分许可细节、完整材料及实际应用效果仍待逐项复核。
 
 | 资源名称 | 模块 | 类型 | 状态 | 资源卡路径 |
 |---|---|---|---|---|
@@ -43,6 +43,11 @@
 | Wind-Induced Vibration of Stay Cables (FHWA-HRT-05-083) | 07 专业工程 | 斜拉索风致振动研究报告 | REVIEWED | 07-专业工程/resources/fhwa-wind-induced-vibration-stay-cables-2007.md |
 | Mitigation of Wind-Induced Vibration of Stay Cables (FHWA-HRT-14-049) | 07 专业工程 | 斜拉索振动数值模拟与减振评估 | REVIEWED | 07-专业工程/resources/fhwa-wind-induced-vibration-stay-cables-2014.md |
 | OpenSees Examples | 07 专业工程 | 有限元建模与结构分析示例 | REVIEWED | 07-专业工程/resources/opensees-official-examples.md |
+| NumPy 官方文档与学习资源 | 08 AI与编程 | 科学计算/数值数组 | REVIEWED | 08-AI与编程/resources/numpy-scientific-computing.md |
+| SciPy 官方科学计算与信号处理指南 | 08 AI与编程 | 信号处理/频谱分析/数值算法 | REVIEWED | 08-AI与编程/resources/scipy-signal-processing.md |
+| pandas 官方文档与数据分析教程 | 08 AI与编程 | 数据读取/清洗/整理 | REVIEWED | 08-AI与编程/resources/pandas-data-analysis.md |
+| Matplotlib 官方绘图教程 | 08 AI与编程 | 科学绘图/结果表达 | REVIEWED | 08-AI与编程/resources/matplotlib-scientific-visualization.md |
+| scikit-learn 官方机器学习用户指南 | 08 AI与编程 | 传统机器学习/模型评估 | REVIEWED | 08-AI与编程/resources/scikit-learn-machine-learning.md |
 
 ## 维护规则
 
