@@ -80,4 +80,4 @@
 
 | 日期 | 文件/模块 | 变更内容 | 依据或反馈 | 风险级别 | 验证状态 |
 |---|---|---|---|---|---|
-| 2026-11-16 | 01、02、06、07 模块；RESOURCE_CATALOG.md；INDEX.md | 新增 4 张资源卡，建立 4 个模块资源索引，并在相关 SKILL 中增加索引入口；全局资源数由 16 更新为 20 | 教育部/全国大学生创业服务网、NSF、FHWA、Data.gov、USAGov 官方页面 | 中 | 写入后待回读；赛事卡保持 DISCOVERED，InfoBridge 与 NSF 指南保持 REVIEWED，NBI 数据卡为 VERIFIED |
+| 2026-11-16 | 01、02、06、07 模块；RESOURCE_CATALOG.md；INDEX.md | 新增 4 张资源卡，建立 4 个模块资源索引，并在相关 SKILL 中增加索引入口；全局资源数由 16 更新为 20 | 教育部/全国大学生创业服务网、NSF、FHWA、Data.gov、USAGov 官方页面 | 中 | 15 个新增/更新文件均已回读；赛事卡保持 DISCOVERED，InfoBridge 与 NSF 指南保持 REVIEWED，NBI 数据卡为 VERIFIED |
