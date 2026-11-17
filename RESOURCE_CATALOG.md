@@ -16,7 +16,7 @@
 |---|---:|---:|---:|---|
 | 01 竞赛与答辩 | 3 | 0 | 0 | 2 项 REVIEWED，1 项 DISCOVERED |
 | 02 项目申报 | 1 | 0 | 0 | 1 项，REVIEWED |
-| 03 技术文档 | 0 | 0 | 0 | 待建设 |
+| 03 技术文档 | 2 | 1 | 0 | 1 项 REVIEWED，1 项 VERIFIED |
 | 04 知识产权 | 0 | 0 | 0 | 待建设 |
 | 05 学术论文 | 0 | 0 | 0 | 待建设 |
 | 06 科学研究 | 3 | 0 | 0 | 3 项，均为 REVIEWED |
@@ -24,11 +24,11 @@
 | 08 AI与编程 | 5 | 0 | 0 | 5 项，均为 REVIEWED |
 | 09 文献与数据 | 0 | 0 | 0 | 待建设 |
 | 10 项目管理 | 0 | 0 | 0 | 待建设 |
-| **合计** | **20** | **1** | **0** | **18 项 REVIEWED，1 项 DISCOVERED，1 项 VERIFIED** |
+| **合计** | **22** | **2** | **0** | **19 项 REVIEWED，1 项 DISCOVERED，2 项 VERIFIED** |
 
 ## 正式资源卡索引
 
-目前已建立 20 张资源卡：18 项为 REVIEWED、1 项为 DISCOVERED、1 项为 VERIFIED。VERIFIED 仅表示来源、版本、访问条件和许可元数据已核对，不代表已完成实际应用测试。
+目前已建立 22 张资源卡：19 项为 REVIEWED、1 项为 DISCOVERED、2 项为 VERIFIED。VERIFIED 仅表示来源、版本、访问条件和许可元数据已核对，不代表已完成实际应用测试。
 
 | 资源名称 | 模块 | 类型 | 状态 | 资源卡路径 |
 |---|---|---|---|---|
@@ -36,6 +36,8 @@
 | 中国国际大学生创新大赛（2025）评审规则发布页 | 01 竞赛与答辩 | 创新创业竞赛评审规则 | REVIEWED | 01-竞赛与答辩/resources/china-international-college-students-innovation-contest-2025.md |
 | 中国国际大学生创新大赛（2026）教育部通知及官方资料入口 | 01 竞赛与答辩 | 官方赛事通知/资料入口 | DISCOVERED | 01-竞赛与答辩/resources/china-international-college-students-innovation-contest-2026.md |
 | 2026 年国家自然科学基金申请书改版说明 | 02 项目申报 | 科研项目申请书撰写政策说明 | REVIEWED | 02-项目申报/resources/nsfc-2026-proposal-writing-revision.md |
+| NASA KSC Technical Documentation Style Guide（KSC-DF-107 Rev F） | 03 技术文档 | 技术文档编写与格式指南 | REVIEWED | 03-技术文档/resources/ksc-technical-documentation-style-guide.md |
+| NASA Systems Engineering Handbook（NASA/SP-2016-6105 Rev 2） | 03 技术文档 | 系统工程过程指南 | VERIFIED | 03-技术文档/resources/nasa-systems-engineering-handbook-rev2.md |
 | OSF Registrations and Preregistrations Guide | 06 科学研究 | 研究流程指南/模板 | REVIEWED | 06-科学研究/resources/osf-preregistration-guide.md |
 | MIT OCW Statistical Methods | 06 科学研究 | 开放课程/统计学 | REVIEWED | 06-科学研究/resources/mit-ocw-statistical-methods.md |
 | NSF Data Management and Sharing Plan Policy and Engineering Guidance | 06 科学研究 | 科研数据管理与共享政策指南 | REVIEWED | 06-科学研究/resources/nsf-data-management-sharing-plan-2026.md |
