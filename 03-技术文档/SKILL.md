@@ -283,3 +283,27 @@ AI 不得：
 **技术准确、依据充分、逻辑完整、表达规范、过程可追溯。**
 
 优秀的技术文档不仅要说明做了什么，还要让其他专业人员能够理解为什么这样做、依据是什么、如何实施，以及怎样验证结果。
+
+
+## 12. 本模块当前资源与工作模板
+
+权威参考资源：
+- [NASA KSC Technical Documentation Style Guide（KSC-DF-107 Rev F）](resources/ksc-technical-documentation-style-guide.md)：技术表达、文档组成、图表、引用和修订控制参考；仅作为参考，不是中国工程项目的法定规范。
+- [NASA Systems Engineering Handbook（NASA/SP-2016-6105 Rev 2）](resources/nasa-systems-engineering-handbook-rev2.md)：需求、系统设计、产品实现、验证和技术管理过程参考。
+
+可直接使用的 RIH 原创工作模板：
+- [工程技术报告模板](templates/engineering-technical-report-template.md)
+- [技术文档审查清单](templates/technical-document-review-checklist.md)
+
+资源索引见 [resources/INDEX.md](resources/INDEX.md)。
+
+## 13. 默认执行工作流
+
+1. 先确认交付对象和文件用途，收集任务书、学校/竞赛/合同格式要求。
+2. 明确技术范围、系统边界、保密级别和需要提交的证据。
+3. 建立依据清单、需求编号和验收准则。
+4. 按报告类型裁剪模板，避免机械套用全部章节。
+5. 对参数、计算、仿真、实验和现场数据分别记录来源与证据类型。
+6. 用审查清单检查需求追溯、计算复核、数据真实性、图表、规范版本和版权保密。
+7. 记录审核意见、未关闭问题、版本和最终批准状态。
+8. 只有在真实项目试填、复核并记录反馈后，才将本模块模板标记为已适配；本轮新增模板仍为初版，尚未完成真实项目验证。
