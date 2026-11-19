@@ -10,7 +10,7 @@
 - Git（可选，用于更新代码）
 - 一款已获许可且支持中文的 TTF/OTF 手写字体
 
-在仓库根目录打开 PowerShell：
+先从 GitHub 下载仓库 ZIP 并解压，进入 `11-PDF手写化` 文件夹。也可以双击 `install_windows.bat` 自动创建虚拟环境并安装依赖。\n\n手动安装时，在该文件夹打开 PowerShell：
 
 ```powershell
 cd 11-PDF手写化
@@ -26,7 +26,7 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .\.venv\Scripts\Activate.ps1
 ```
 
-## 二、准备目录
+安装完成后，双击 `run_windows.bat` 可运行默认配置；也可以把自定义配置路径作为参数传入。首次运行前必须先编辑配置文件。\n\n## 二、准备目录
 
 在本模块目录下创建本地私有目录（不要上传 GitHub）：
 
