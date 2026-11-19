@@ -1,0 +1,28 @@
+{
+  "input_pdf": "input/source.pdf",
+  "output_pdf": "output/handwritten_result.pdf",
+  "dpi": 144,
+  "seed": 20261120,
+  "default_mode": "generic",
+  "font_path": "private_data/fonts/your_chinese_handwriting_font.ttf",
+  "glyph_dir": "private_data/glyphs",
+  "missing_glyph": "error",
+  "boxes": [
+    {
+      "page": 0,
+      "x": 90,
+      "y": 160,
+      "width": 420,
+      "height": 110,
+      "text": "这里填写已经核实的文字内容。",
+      "mode": "generic",
+      "font_size": 14,
+      "line_spacing": 1.55,
+      "char_spacing": 1.2,
+      "angle_jitter": 1.2,
+      "position_jitter": 0.8,
+      "size_jitter": 0.025,
+      "ink_opacity": 0.92
+    }
+  ]
+}
