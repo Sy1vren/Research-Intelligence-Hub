@@ -157,6 +157,10 @@ def main() -> int:
     config_path = Path(args.config).resolve()
     cfg = json.loads(config_path.read_text(encoding="utf-8"))
     base = config_path.parent.parent
+    for key in ("font_path", "glyph_dir"):
+        value = cfg.get(key)
+        if value and not Path(value).is_absolute():
+            cfg[key] = str((base / value).resolve())
     input_pdf = Path(cfg["input_pdf"])
     output_pdf = Path(cfg["output_pdf"])
     if not input_pdf.is_absolute():
