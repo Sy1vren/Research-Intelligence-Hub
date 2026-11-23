@@ -82,4 +82,4 @@
 |---|---|---|---|---|---|
 | 2026-11-16 | 01、02、06、07 模块；RESOURCE_CATALOG.md；INDEX.md | 新增 4 张资源卡，建立 4 个模块资源索引，并在相关 SKILL 中增加索引入口；全局资源数由 16 更新为 20 | 教育部/全国大学生创业服务网、NSF、FHWA、Data.gov、USAGov 官方页面 | 中 | 15 个新增/更新文件均已回读；赛事卡保持 DISCOVERED，InfoBridge 与 NSF 指南保持 REVIEWED，NBI 数据卡为 VERIFIED |
 | 2026-11-23 | 01-003、07-007；01、07 模块资源索引；RESOURCE_CATALOG.md | 将 2026 创新大赛资源由 DISCOVERED 调整为 REVIEWED；补充 NBI 相关 DOT Data Portal 目录更新、CC0 字段及 2024/2025 时间范围说明；同步状态统计和使用提醒 | 教育部/全国大学生创业服务网官方通知与评审规则页面；美国交通部 Data Portal NBI 目录记录 | 中 | 已回读验证 |
-| 2026-11-23 | 06-003；06 科学研究资源索引 | 补充 NSF PAPPG 24-1 当前状态及 GFA 草案公众意见征集、预计生效时间；保留 REVIEWED 状态 | NSF PAPPG 官方页面、Reginfo 官方补充材料页面 | 中 | 待回读验证 |
+| 2026-11-23 | 06-003；06 科学研究资源索引 | 补充 NSF PAPPG 24-1 当前状态及 GFA 草案公众意见征集、预计生效时间；保留 REVIEWED 状态 | NSF PAPPG 官方页面、Reginfo 官方补充材料页面 | 中 | 已回读验证 |
