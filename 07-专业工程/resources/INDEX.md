@@ -14,7 +14,7 @@
 | [FHWA LTBP InfoBridge Portal](fhwa-infobridge-portal.md) | 桥梁性能数据平台/分析工具 | REVIEWED | 查询桥梁历史性能、状态预测和养护分析工具 |
 
 ## 使用提醒
-- NBI 和 InfoBridge 数据主要覆盖美国桥梁，不能直接替代中国桥梁数据或规范。
+- NBI 和 InfoBridge 数据主要覆盖美国桥梁，不能直接替代中国桥梁数据或规范。\n- U.S. DOT Data Portal 的 NBI 目录记录在 2026-11-02 更新，但其 Temporal Applicability 标为 2024/2025；必须与 FHWA 2026 年度下载文件区分，并以实际文件元数据确认年份。
 - 2026—2027 年 NBI 向 SNBI 过渡，跨年度分析前必须检查字段映射、临时代码和空值。
 - InfoBridge 预测工具存在适用条件，平台条款也提示数据按现状提供。
 - OpenSees 能运行不代表模型正确；必须进行理论、基准算例或试验验证。
