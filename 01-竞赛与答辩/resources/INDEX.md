@@ -6,7 +6,7 @@
 |---|---|---|---|
 | [“挑战杯”全国大学生课外学术科技作品竞赛章程](challenge-cup-charter.md) | 竞赛章程 | REVIEWED | 了解作品类别、资格、成果时间和违规处理；仅作第十八届规则参考 |
 | [中国国际大学生创新大赛（2025）评审规则发布页](china-international-college-students-innovation-contest-2025.md) | 评审规则入口 | REVIEWED | 回顾 2025 年赛事评审资料，不替代后续届次规则 |
-| [中国国际大学生创新大赛（2026）教育部通知及官方资料入口](china-international-college-students-innovation-contest-2026.md) | 官方通知/规则入口 | DISCOVERED | 2026 年赛事入口；教育部原文及 ZIP 附件待完整核读 |
+| [中国国际大学生创新大赛（2026）教育部通知及官方资料入口](china-international-college-students-innovation-contest-2026.md) | 官方通知/规则入口 | REVIEWED | 官方通知镜像与评审规则通知页已核对；规则 PDF 下载超时，评分细则待人工核读 |
 
 ## 使用提醒
 - 赛事规则必须按届次管理，不将历史规则当作当届规则。
