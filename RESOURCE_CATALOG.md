@@ -17,18 +17,18 @@
 | 01 竞赛与答辩 | 3 | 0 | 0 | 3 项，均为 REVIEWED |
 | 02 项目申报 | 1 | 0 | 0 | 1 项，REVIEWED |
 | 03 技术文档 | 2 | 1 | 0 | 1 项 REVIEWED，1 项 VERIFIED |
-| 04 知识产权 | 0 | 0 | 0 | 待建设 |
+| 04 知识产权 | 4 | 0 | 0 | 4 项，均为 REVIEWED |
 | 05 学术论文 | 0 | 0 | 0 | 待建设 |
 | 06 科学研究 | 3 | 0 | 0 | 3 项，均为 REVIEWED |
 | 07 专业工程 | 8 | 1 | 0 | 7 项 REVIEWED，1 项 VERIFIED |
 | 08 AI与编程 | 5 | 0 | 0 | 5 项，均为 REVIEWED |
 | 09 文献与数据 | 0 | 0 | 0 | 待建设 |
 | 10 项目管理 | 0 | 0 | 0 | 待建设 |
-| **合计** | **22** | **2** | **0** | **20 项 REVIEWED，0 项 DISCOVERED，2 项 VERIFIED** |
+| **合计** | **26** | **2** | **0** | **24 项 REVIEWED，0 项 DISCOVERED，2 项 VERIFIED** |
 
 ## 正式资源卡索引
 
-目前已建立 22 张资源卡：20 项为 REVIEWED、0 项为 DISCOVERED、2 项为 VERIFIED。VERIFIED 仅表示来源、版本、访问条件和许可元数据已核对，不代表已完成实际应用测试。
+目前已建立 26 张资源卡：24 项为 REVIEWED、0 项为 DISCOVERED、2 项为 VERIFIED。VERIFIED 仅表示来源、版本、访问条件和许可元数据已核对，不代表已完成实际应用测试。
 
 | 资源名称 | 模块 | 类型 | 状态 | 资源卡路径 |
 |---|---|---|---|---|
@@ -38,6 +38,10 @@
 | 2026 年国家自然科学基金申请书改版说明 | 02 项目申报 | 科研项目申请书撰写政策说明 | REVIEWED | 02-项目申报/resources/nsfc-2026-proposal-writing-revision.md |
 | NASA KSC Technical Documentation Style Guide（KSC-DF-107 Rev F） | 03 技术文档 | 技术文档编写与格式指南 | REVIEWED | 03-技术文档/resources/ksc-technical-documentation-style-guide.md |
 | NASA Systems Engineering Handbook（NASA/SP-2016-6105 Rev 2） | 03 技术文档 | 系统工程过程指南 | VERIFIED | 03-技术文档/resources/nasa-systems-engineering-handbook-rev2.md |
+| 专利审查指南（2023）及第84号令修改（2026年生效） | 04 知识产权 | 专利审查规则 | REVIEWED | 04-知识产权/resources/cnipa-patent-examination-guidelines-2023-amended-2026.md |
+| 专利优先审查管理办法（国家知识产权局令第85号） | 04 知识产权 | 专利程序规则 | REVIEWED | 04-知识产权/resources/cnipa-priority-examination-measures-2026.md |
+| 国家知识产权局专利检索及分析系统 | 04 知识产权 | 官方专利检索与分析平台 | REVIEWED | 04-知识产权/resources/cnipa-patent-search-analysis-system.md |
+| 中国计算机软件著作权保护与登记规则 | 04 知识产权 | 软件著作权法规与登记规则 | REVIEWED | 04-知识产权/resources/china-software-copyright-protection-and-registration-rules.md |
 | OSF Registrations and Preregistrations Guide | 06 科学研究 | 研究流程指南/模板 | REVIEWED | 06-科学研究/resources/osf-preregistration-guide.md |
 | MIT OCW Statistical Methods | 06 科学研究 | 开放课程/统计学 | REVIEWED | 06-科学研究/resources/mit-ocw-statistical-methods.md |
 | NSF Data Management and Sharing Plan Policy and Engineering Guidance | 06 科学研究 | 科研数据管理与共享政策指南 | REVIEWED | 06-科学研究/resources/nsf-data-management-sharing-plan-2026.md |
